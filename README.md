@@ -8,7 +8,7 @@ npm install
 npm run start
 ```
 
-### Compile to typescript
+### Compile to javascript
 ```
 npm run build
 ```
